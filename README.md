@@ -61,11 +61,11 @@ Once the user's content is published on the e-learning VovemDev, they can promot
 
 Users can promote their content in several ways, including:
 
-- *Sharing it on social media: Users can share their content on social media platforms, such as Facebook, Twitter, and LinkedIn. They should include a link to the content and a brief description to encourage people to click on the link.
+- Sharing it on social media: Users can share their content on social media platforms, such as Facebook, Twitter, and LinkedIn. They should include a link to the content and a brief description to encourage people to click on the link.
 
-- *Engaging with the e-learning community: Users can engage with the e-learning community by commenting on other users' content and participating in discussions. This will help to build their reputation on the platform and attract more learners to their content.
+- Engaging with the e-learning community: Users can engage with the e-learning community by commenting on other users' content and participating in discussions. This will help to build their reputation on the platform and attract more learners to their content.
 
-- *Submitting content regularly: Users should submit content regularly to keep their profile active and engage with the e-learning community. This will also help to establish them as experts in their field.
+- Submitting content regularly: Users should submit content regularly to keep their profile active and engage with the e-learning community. This will also help to establish them as experts in their field.
 
 Conclusion:
 
